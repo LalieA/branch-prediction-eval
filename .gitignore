@@ -1,0 +1,10 @@
+results/**
+*.o
+predictor
+scripts/*.pdf
+vgcore*
+*.aux
+*latexmk
+*.fls
+*.log
+*.gz
