@@ -25,4 +25,4 @@ cd ./todo/rendu && make clean && make
 The report is then available in the `todo/rendu/` under the name `tp-branch-res.pdf`.
 
 
-This work was done as part of the Conception and Exploitation of multi-core architectures course in the last year of engineering courses at Grenoble INP - Ensimag, UGA.
+This work was done as part of the Conception and Exploitation of multi-core architectures course given in the last year of the Information Systems Engineering specialization at Grenoble INP - Ensimag, UGA.
